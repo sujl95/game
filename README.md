@@ -30,7 +30,6 @@
 - HTML, CSS, JavaScript, jQuery
 
 ## Development Environment
-- JDK 1.8.0
 - jQuery 1.12.4
 
 ## Issue
